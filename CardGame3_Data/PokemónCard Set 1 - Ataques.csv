@@ -1,0 +1,44 @@
+Ataque,Tipo,Daño,Efecto Especial,Afecta
+Absorber,Planta,1,Vida: +1,Mi
+Apuesta,Normal,0,Apostar Ataque: 3,Mi
+Arañazo,Normal,1,,
+Ascuas,Fuego,2,,
+At. Rápido,Sorpresa,1,,
+Ataque Ala,Volador,2,,
+Ataque Arena,Tierra,1,Vel: -1,Rival
+Bofetón Lodo,Tierra,2,,
+Burbujas,Agua,1,,
+Chupavida,Sorpresa,0,Vida: +1,Mi
+Comesueños,Fantasma,2,,
+Confusión,Psiquico,2,,
+Cuchillada,Normal,3,,
+Destructor,Normal,2,,
+Doble Bofetón,Normal,1,,
+Dulce Aroma,Sorpresa,0,Vida: +3,Mi
+Gigadrenado,Planta,3,Vida: +2,Mi
+Golpe Karate,Lucha,2,,
+Gruñido,Sorpresa,0,Daño: -1,Rival
+Hidropulso,Agua,3,Daño: +1 vs Agua,Mi
+Hipnosis,Sorpresa,3,,
+Hoja Afilada,Planta,2,,
+Impactrueno,Electrico,2,,
+Lanzallamas,Fuego,5,,
+Látigo Cepa,Planta,2,Vel: -1,Rival
+Lenguetazo,Normal,1,Vel: -1,Rival
+Maldición,Sorpresa,3,Vida: -2,Mi
+Pantalla de Humo,Sorpresa,0,Cancelar Especial,Rival
+Patada Baja,Lucha,1,,
+Picotazo,Volador,1,,
+Pinza-Martillo,Agua,2,Vel: -1,Rival
+Pistola de Agua,Agua,2,,
+Placaje,Normal,1,,
+Psicorayo,Psiquico,3,,
+Psiquico,Psiquico,4,,
+Rayo,Electrico,4,,
+Restauración,Normal,0,Vida: +4,Mi
+Surf,Agua,4,,
+Tinieblas,Fantasma,1,,
+Tiro Vital,Lucha,3,,
+Tornado,Volador,3,,
+Transformación,Sorpresa,0,Copia Básico,Mi
+Tumba Rocas,Tierra,3,Vel: -1,Rival

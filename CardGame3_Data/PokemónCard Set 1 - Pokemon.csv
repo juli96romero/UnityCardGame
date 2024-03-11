@@ -1,0 +1,41 @@
+Nº,Nombre,Valor,Tipo,Vida,Vel,Ataque 1,Tipo A1,Daño1,Ataque 2,Tipo A2,Daño2,Efecto Especial A2,Afecta,Ev1,Ev2,Ev3
+001,Bulbasaur,2,Planta,4,1,Placaje,Normal,1,Absorber,Planta,1,Vida: +1,Mi,Bulbasaur,Ivysaur,Venusaur
+002,Ivysaur,4,Planta,7,0,Hoja Afilada,Planta,2,Látigo Cepa,Planta,2,Vel: -1,Rival,Bulbasaur,Ivysaur,Venusaur
+003,Venusaur,6,Planta,8,0,Hoja Afilada,Planta,2,Gigadrenado,Planta,3,Vida: +2,Mi,Bulbasaur,Ivysaur,Venusaur
+004,Charmander,2,Fuego,3,1,Arañazo,Normal,1,Ascuas,Fuego,2,-,-,Charmander,Charmeleon,Charizard
+005,Charmeleon,4,Fuego,5,1,Ascuas,Fuego,2,Pantalla de Humo,Sorpresa,0,Cancelar Especial,Rival,Charmander,Charmeleon,Charizard
+006,Charizard,6,Fuego,7,1,Ascuas,Fuego,2,Lanzallamas,Fuego,5,-,-,Charmander,Charmeleon,Charizard
+007,Squirtle,2,Agua,4,1,Burbujas,Agua,1,Pistola de Agua,Agua,2,-,-,Squirtle,Wartortle,Blastoise
+008,Wartortle,4,Agua,6,1,Burbujas,Agua,1,Hidropulso,Agua,3,Daño: +1 vs Agua,Mi,Squirtle,Wartortle,Blastoise
+009,Blastoise,6,Agua,8,0,Burbujas,Agua,1,Surf,Agua,4,-,-,Squirtle,Wartortle,Blastoise
+016,Pidgey,1,Volador,3,1,Placaje,Normal,1,At. Rápido,Sorpresa,1,-,-,Pidgey,Pidgeotto,Pidgeot
+017,Pidgeotto,3,Volador,5,2,Picotazo,Volador,1,Ataque Ala,Volador,2,-,-,Pidgey,Pidgeotto,Pidgeot
+018,Pidgeot,5,Volador,7,2,Ataque Ala,Volador,2,Tornado,Volador,3,-,-,Pidgey,Pidgeotto,Pidgeot
+019,Rattata,1,Normal,3,1,Placaje,Normal,1,Gruñido,Sorpresa,0,Daño: -1,Rival,Rattata,Raticate,
+020,Raticate,3,Normal,6,1,Destructor,Normal,2,At. Rápido,Sorpresa,1,-,-,Rattata,Raticate,
+025,Pikachu,3,Electrico,3,2,Impactrueno,Electrico,2,Gruñido,Sorpresa,0,Daño: -1,Rival,Pikachu,Raichu,
+026,Raichu,4,Electrico,5,2,Impactrueno,Electrico,2,At. Rápido,Sorpresa,1,-,-,Pikachu,Raichu,
+027,Sandshrew,1,Tierra,3,1,Arañazo,Normal,1,Ataque Arena,Tierra,1,Vel: -1,Rival,Sandshrew,Sandslash,
+028,Sandslash,4,Tierra,6,2,Bofetón Lodo,Tierra,2,Cuchillada,Normal,3,-,-,Sandshrew,Sandslash,
+037,Vulpix,2,Fuego,4,1,Placaje,Normal,1,Ascuas,Fuego,2,,,Vulpix,Ninetales,
+038,Ninetales,4,Fuego,5,2,Ascuas,Fuego,2,At. Rápido,Sorpresa,1,-,-,Vulpix,Ninetales,
+046,Paras,1,Planta,2,0,Arañazo,Normal,1,Chupavida,Sorpresa,0,Vida: +1,Mi,Paras,Parasect,
+047,Parasect,4,Planta,5,1,Hoja Afilada,Planta,2,Dulce Aroma,Sorpresa,0,Vida: +3,Mi,Paras,Parasect,
+052,Meowth,2,Normal,4,1,Arañazo,Normal,1,Apuesta,Normal,0,Apostar Ataque: 3,Mi,Meowth,Persian,
+053,Persian,3,Normal,5,2,Arañazo,Normal,1,Cuchillada,Normal,3,-,-,Meowth,Persian,
+063,Abra,1,Psiquico,3,1,-,-,-,Confusión,Psiquico,2,-,-,Abra,Kadabra,Alakazam
+064,Kadabra,4,Psiquico,5,2,Confusión,Psiquico,2,Psicorayo,Psiquico,3,-,-,Abra,Kadabra,Alakazam
+065,Alakazam,6,Psiquico,6,2,Psicorayo,Psiquico,3,Psiquico,Psiquico,4,-,-,Abra,Kadabra,Alakazam
+066,Machop,2,Lucha,4,1,Patada Baja,Lucha,1,Golpe Karate,Lucha,2,-,-,Machop,Machoke,Machamp
+067,Machoke,4,Lucha,6,1,Patada Baja,Lucha,1,Tiro Vital,Lucha,3,-,-,Machop,Machoke,Machamp
+068,Machamp,5,Lucha,7,1,Destructor,Normal,2,Tiro Vital,Lucha,3,-,-,Machop,Machoke,Machamp
+092,Gastly,1,Fantasma,2,2,Tinieblas,Fantasma,1,Lenguetazo,Normal,1,Vel: -1,Rival,Gastly,Haunter,Gengar
+093,Haunter,3,Fantasma,4,2,Tinieblas,Fantasma,1,Maldición,Sorpresa,3,Vida: -2,Mi,Gastly,Haunter,Gengar
+094,Gengar,6,Fantasma,7,1,Comesueños,Fantasma,2,Hipnosis,Sorpresa,3,-,-,Gastly,Haunter,Gengar
+095,Onix,5,Tierra,8,0,Bofetón Lodo,Tierra,2,Tumba Rocas,Tierra,3,Vel: -1,Rival,,,
+098,Krabby,2,Agua,3,1,Burbujas,Agua,1,Destructor,Normal,2,-,-,Krabby,Kingler,
+099,Kingler,5,Agua,7,1,Pistola de Agua,Agua,2,Pinza-Martillo,Agua,2,Vel: -1,Rival,Krabby,Kingler,
+108,Lickitung,3,Normal,6,0,Destructor,Normal,2,Lenguetazo,Normal,1,Vel: -1,Rival,,,
+113,Chansey,5,Normal,8,0,Doble Bofetón,Normal,1,Restauración,Normal,0,Vida: +4,Mi,,,
+125,Electabuzz,5,Electrico,7,0,Destructor,Normal,2,Rayo,Electrico,4,-,-,,,
+132,Ditto,3,Normal,5,1,-,-,-,Transformación,Sorpresa,0,Copia Básico,Mi,,,

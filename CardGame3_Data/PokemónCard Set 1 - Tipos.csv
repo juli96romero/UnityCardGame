@@ -1,0 +1,11 @@
+Tipo,Ventaja,Ventaja
+Planta,Agua,Electrico
+Fuego,Planta,Volador
+Agua,Fuego,Tierra
+Volador,Tierra,Planta
+Tierra,Electrico,Fuego
+Electrico,Volador,Agua
+Normal,Fantasma,
+Fantasma,Psiquico,Fantasma
+Psiquico,Lucha,Psiquico
+Lucha,Normal,
